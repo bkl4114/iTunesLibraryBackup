@@ -1,0 +1,12 @@
+c:\users\brad\documents\visual studio 2012\Projects\iTunesLibraryBackup\iTunesLibraryBackup\bin\Debug\iTunesLibraryBackup.exe.config
+c:\users\brad\documents\visual studio 2012\Projects\iTunesLibraryBackup\iTunesLibraryBackup\bin\Debug\iTunesLibraryBackup.exe
+c:\users\brad\documents\visual studio 2012\Projects\iTunesLibraryBackup\iTunesLibraryBackup\bin\Debug\iTunesLibraryBackup.pdb
+c:\users\brad\documents\visual studio 2012\Projects\iTunesLibraryBackup\iTunesLibraryBackup\obj\Debug\iTunesLibraryBackup.csprojResolveAssemblyReference.cache
+c:\users\brad\documents\visual studio 2012\Projects\iTunesLibraryBackup\iTunesLibraryBackup\obj\Debug\iTunesLibraryBackup.mainForm.resources
+c:\users\brad\documents\visual studio 2012\Projects\iTunesLibraryBackup\iTunesLibraryBackup\obj\Debug\iTunesLibraryBackup.Properties.Resources.resources
+c:\users\brad\documents\visual studio 2012\Projects\iTunesLibraryBackup\iTunesLibraryBackup\obj\Debug\iTunesLibraryBackup.csproj.GenerateResource.Cache
+c:\users\brad\documents\visual studio 2012\Projects\iTunesLibraryBackup\iTunesLibraryBackup\obj\Debug\iTunesLibraryBackup.exe
+c:\users\brad\documents\visual studio 2012\Projects\iTunesLibraryBackup\iTunesLibraryBackup\obj\Debug\iTunesLibraryBackup.pdb
+H:\Dropbox\Dropbox\Projects\ituneslibrarybackup\iTunesLibraryBackup\iTunesLibraryBackup\bin\Debug\iTunesLibraryBackup.exe.config
+H:\Dropbox\Dropbox\Projects\ituneslibrarybackup\iTunesLibraryBackup\iTunesLibraryBackup\obj\Debug\iTunesLibraryBackup.exe
+H:\Dropbox\Dropbox\Projects\ituneslibrarybackup\iTunesLibraryBackup\iTunesLibraryBackup\obj\Debug\iTunesLibraryBackup.pdb
